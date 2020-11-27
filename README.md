@@ -1,2 +1,2 @@
 # genetic-algorithm-shortest-path
-CPE 212 Algorithm Design KMUTT
+Genetic algorithm CPE 212 Algorithm Design KMUTT
